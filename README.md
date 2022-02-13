@@ -41,6 +41,10 @@ Data science portfolio
 
 # Forecast Data
 
+![Forecast](https://user-images.githubusercontent.com/64054582/153777554-6760d369-6b4b-4dc8-85db-3e9c7ccaa0f4.png)
+
+
+
 
 
 
