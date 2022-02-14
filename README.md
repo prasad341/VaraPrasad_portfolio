@@ -11,7 +11,8 @@ Data science portfolio
 
 . I wanted to learn a good programming skills and work on real projects.
 
-# Project 1 : AIR POLLUTION FORECASTING AND DETECTION USING DEEP LEARNING 
+# Project 1 
+# Title : AIR POLLUTION FORECASTING AND DETECTION USING DEEP LEARNING 
 
 .  In this project we can predict the pollutants in air by using Artificial Neural Network (ANN) algorithm.
 
